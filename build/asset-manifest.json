@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/money-timer/static/css/main.7db5881a.css",
+    "main.js": "/money-timer/static/js/main.700d13c7.js",
+    "index.html": "/money-timer/index.html",
+    "main.7db5881a.css.map": "/money-timer/static/css/main.7db5881a.css.map",
+    "main.700d13c7.js.map": "/money-timer/static/js/main.700d13c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7db5881a.css",
+    "static/js/main.700d13c7.js"
+  ]
+}
